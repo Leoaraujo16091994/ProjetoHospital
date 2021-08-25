@@ -1,4 +1,18 @@
-# ProjetoHospital
+# Projeto Erp Loja
+
+Projeto criado com o intuito de praticar toda a questão de modelagem de um projeto grande.
+
+
+
+## Módulos :
+  RH;
+  Fiscal;
+  Estoque;
+  Compras;
+  Produção;
+  Financeiro;
+  Faturamento;
+  Gerenciamento de projetos
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.3.
 
@@ -25,3 +39,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Requisitos
+  Angular : 10
+  Primeng : 10
+  norde : 10.16.3
+  npm : 6.9.0
+  
