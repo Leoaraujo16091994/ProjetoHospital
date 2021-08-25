@@ -5,14 +5,14 @@ Projeto criado com o intuito de praticar toda a questão de modelagem de um proj
 
 
 ## Módulos :
-  RH;  
-  Fiscal;  
-  Estoque;
-  Compras;
-  Produção;
-  Financeiro;
-  Faturamento;
-  Gerenciamento de projetos
+  > RH;  
+  > Fiscal;  
+  > Estoque;  
+  > Compras;  
+  > Produção;  
+  > Financeiro;  
+  > Faturamento;  
+  > Gerenciamento de projetos  
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.3.
 
@@ -42,8 +42,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ## Requisitos
-  Angular : 10
-  Primeng : 10
-  norde : 10.16.3
-  npm : 6.9.0
+  > Angular : 10  
+  > Primeng : 10  
+  > norde : 10.16.3  
+  > npm : 6.9.0  
   
