@@ -5,8 +5,8 @@ Projeto criado com o intuito de praticar toda a questão de modelagem de um proj
 
 
 ## Módulos :
-  RH;
-  Fiscal;
+  RH;  
+  Fiscal;  
   Estoque;
   Compras;
   Produção;
